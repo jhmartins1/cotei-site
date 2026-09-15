@@ -1,0 +1,90 @@
+{
+  "reviewed": true,
+  "updatedAt": "2026-09-15",
+  "sections": [
+    {
+      "id": "responsavel",
+      "title": "Responsável e contato",
+      "paragraphs": [
+        "Esta Política de Privacidade se aplica ao aplicativo Cotei.",
+        "Para dúvidas, solicitações ou informações relacionadas à privacidade e ao aplicativo, entre em contato pelo e-mail: jhmartinsrdo@gmail.com."
+      ]
+    },
+    {
+      "id": "dados",
+      "title": "Dados e finalidades",
+      "paragraphs": [
+        "O Cotei não exige cadastro ou criação de conta e não solicita diretamente informações pessoais como nome, e-mail, telefone ou endereço.",
+        "Os valores informados pelo usuário para realizar conversões de moedas são utilizados para executar as funcionalidades do aplicativo.",
+        "O aplicativo pode armazenar localmente no dispositivo informações necessárias às funcionalidades de histórico, preferências, configurações e uso de cotações salvas para funcionamento offline."
+      ]
+    },
+    {
+      "id": "permissoes",
+      "title": "Permissões do aplicativo",
+      "paragraphs": [
+        "O Cotei utiliza acesso à internet para consultar informações de taxas de câmbio.",
+        "O aplicativo não solicita acesso à câmera, microfone, contatos ou localização para executar suas funcionalidades principais."
+      ]
+    },
+    {
+      "id": "compartilhamento",
+      "title": "Serviços externos e compartilhamento",
+      "paragraphs": [
+        "O Cotei utiliza um serviço externo para consultar taxas de câmbio atualizadas. Para realizar essas consultas, o aplicativo estabelece uma conexão com servidores externos pela internet.",
+        "Durante uma comunicação pela internet, informações técnicas necessárias à conexão, como endereço IP, podem ser processadas pelo provedor do serviço.",
+        "O Cotei não vende informações pessoais dos usuários e não utiliza serviços de publicidade para comercializar dados pessoais."
+      ]
+    },
+    {
+      "id": "armazenamento",
+      "title": "Armazenamento e segurança",
+      "paragraphs": [
+        "Informações relacionadas ao histórico de conversões, preferências do aplicativo e cotações disponibilizadas para uso offline podem ser armazenadas localmente no dispositivo do usuário.",
+        "O Cotei adota práticas compatíveis com suas funcionalidades para limitar o tratamento de informações ao necessário para o funcionamento do aplicativo."
+      ]
+    },
+    {
+      "id": "exclusao",
+      "title": "Retenção e exclusão de dados",
+      "paragraphs": [
+        "O Cotei não oferece criação de conta de usuário.",
+        "As informações armazenadas localmente pelo aplicativo podem ser removidas por meio das funcionalidades disponíveis no próprio aplicativo, quando aplicável, ou pela remoção dos dados do aplicativo no dispositivo.",
+        "A desinstalação do aplicativo também remove os dados locais associados ao Cotei, conforme o funcionamento do sistema operacional."
+      ]
+    },
+    {
+      "id": "direitos",
+      "title": "Direitos e solicitações",
+      "paragraphs": [
+        "O usuário pode entrar em contato pelo canal informado nesta Política de Privacidade para esclarecer dúvidas relacionadas à privacidade e ao tratamento de informações pelo Cotei.",
+        "Quando aplicável, solicitações relacionadas aos direitos previstos na legislação de proteção de dados poderão ser realizadas pelo e-mail de contato informado nesta política."
+      ]
+    },
+    {
+      "id": "publico",
+      "title": "Público do aplicativo",
+      "paragraphs": [
+        "O Cotei é destinado ao público geral a partir de 13 anos e não foi desenvolvido especificamente para crianças.",
+        "O aplicativo não exige cadastro e não solicita diretamente dados pessoais para utilização das funcionalidades principais."
+      ]
+    },
+    {
+      "id": "cotacoes",
+      "title": "Cotações e informações financeiras",
+      "paragraphs": [
+        "As taxas de câmbio e conversões apresentadas pelo Cotei possuem caráter informativo.",
+        "Os valores exibidos podem diferir das taxas efetivamente praticadas por bancos, corretoras, casas de câmbio, operadoras de cartão e outras instituições.",
+        "O Cotei não realiza compra ou venda de moedas, transferências, pagamentos, investimentos ou outras operações financeiras."
+      ]
+    },
+    {
+      "id": "alteracoes",
+      "title": "Alterações nesta política",
+      "paragraphs": [
+        "Esta Política de Privacidade poderá ser atualizada para refletir alterações nas funcionalidades do Cotei, nos serviços utilizados ou nas práticas de tratamento de informações.",
+        "A data da atualização mais recente será indicada nesta página."
+      ]
+    }
+  ]
+}

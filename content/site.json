@@ -1,0 +1,11 @@
+{
+  "name": "Cotei",
+  "description": "Cotei é um aplicativo de conversão de moedas que permite consultar taxas de câmbio, realizar conversões e acessar recursos como histórico e cotações salvas para uso offline.",
+  "headline": "Seu dinheiro, sem fronteiras.",
+  "intro": "Converta moedas e consulte taxas de câmbio de forma rápida, simples e prática.",
+  "about": "O Cotei foi desenvolvido para facilitar consultas e conversões entre diferentes moedas. O aplicativo oferece uma experiência simples e direta, com histórico de conversões, diferentes opções de aparência e possibilidade de utilizar cotações previamente salvas mesmo sem conexão com a internet.",
+  "developerName": "João Heitor Martins Rosa de Oliveira",
+  "contactEmail": "jhmartinsrdo@gmail.com",
+  "playStoreUrl": "",
+  "siteUrl": "https://cotei.vercel.app"
+}
